@@ -1,0 +1,10 @@
+﻿This dataset (hereinafter referred to as the "T/F Handwritten Answersheet Dataset (sample)") containing anonymized scanned copies of answer sheets from students of the CS2050: Pattern Recognition and Machine Learning course conducted during Semester II of the academic year 2023-2024 at IIT Jodhpur is provided under the following terms:
+1. Permitted Use: You are permitted to use the T/F Handwritten Answersheet Dataset  (sample) solely for academic, research, and development purposes.
+2. Restrictions:
+   * Redistribution: You may not redistribute the T/F Handwritten Answersheet  Dataset.
+   * Commercial Use: You may not use this Dataset for commercial purposes.
+
+
+3. Anonymization: You agree to protect the privacy of individuals by ensuring that all personal information and identities are appropriately anonymized when using the T/F Handwritten Answersheet Dataset (sample).
+4. No Warranty: The T/F Handwritten Answersheet Dataset (sample) is provided "as is," without warranty of any kind, express or implied.
+5. Termination: This license is effective until terminated. You may terminate it at any time by destroying the T/F Handwritten Answersheet Dataset (sample).
