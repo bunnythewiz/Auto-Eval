@@ -3,8 +3,6 @@
 2. Restrictions:
    * Redistribution: You may not redistribute the T/F Handwritten Answersheet  Dataset.
    * Commercial Use: You may not use this Dataset for commercial purposes.
-
-
 3. Anonymization: You agree to protect the privacy of individuals by ensuring that all personal information and identities are appropriately anonymized when using the T/F Handwritten Answersheet Dataset (sample).
 4. No Warranty: The T/F Handwritten Answersheet Dataset (sample) is provided "as is," without warranty of any kind, express or implied.
 5. Termination: This license is effective until terminated. You may terminate it at any time by destroying the T/F Handwritten Answersheet Dataset (sample).
